@@ -32,4 +32,4 @@ I am atader and computer engineering student
 
 - I am working clinic
 
-  Persian Resume: <a href=""> Resume </a>
+  Persian Resume: <a href="https://zahra-ghaedrah.github.io/resume-fa.github.io/"> Resume </a>
