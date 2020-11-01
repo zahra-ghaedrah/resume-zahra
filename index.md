@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+<img src="" />
 
-You can use the [editor on GitHub](https://github.com/zahra-ghaedrah/resume-zahra/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am Zahra ghaedrahmat
+I am atader and computer engineering student
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Zahra
+- Last Name: ghaedrahmat
+- Birth Date: 1995/08/11
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
++ Tarahi
 
-- Bulleted
-- List
++ Taiping
 
-1. Numbered
-2. List
+### Languages
 
-**Bold** and _Italic_ and `Code` text
+- Persian(Advanced)
 
-[Link](url) and ![Image](src)
-```
+- English(Normal)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Diploma
 
-### Jekyll Themes
+- Alomtajrobi
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zahra-ghaedrah/resume-zahra/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Working Experience
 
-### Support or Contact
+- I am working clinic
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  Persian Resume: <a href=""> Resume </a>
