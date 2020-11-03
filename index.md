@@ -34,6 +34,6 @@ I am atader and computer engineering student
 
 ### Ather accont
 
-- instagram: <a href="https://instagram.com/zahra_ghaedrahmat?igshid=1ivvq19w15ns3/"> instagram </a>
+- instagram: <a href="https://instagram.com/zahra_ghaedrahmat?igshid=1ivvq19w15ns3/">https://instagram.com/zahra_ghaedrahmat?igshid=1ivvq19w15ns3</a>
 
   Persian Resume: <a href="https://zahra-ghaedrah.github.io/resume-fa.github.io/"> Resume </a>
