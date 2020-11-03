@@ -36,4 +36,5 @@ I am atader and computer engineering student
 
 - instagram: <a href="https://instagram.com/zahra_ghaedrahmat?igshid=1ivvq19w15ns3/">https://instagram.com/zahra_ghaedrahmat?igshid=1ivvq19w15ns3</a>
 
+- Email. <a href="zghaedrahmat077@gmil.com/">zghaedrahmat077@gmil.com</a>
   Persian Resume: <a href="https://zahra-ghaedrah.github.io/resume-fa.github.io/"> Resume </a>
